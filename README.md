@@ -1,5 +1,5 @@
 # BlackJack
-Human vs AI card game based on a popular casino game | Developed with Java
+Human vs AI virtual card game based on a popular casino game
 
 # Description
 ‣ The object of the game is to beat the dealer (AI) by getting a count as close to 21 as possible, without going over 21 <br />
