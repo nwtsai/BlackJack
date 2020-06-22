@@ -1,4 +1,4 @@
-# BlackJack
+# Blackjack
 Human vs AI virtual card game based on a popular casino game
 
 # Description
